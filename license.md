@@ -130,4 +130,4 @@ Le bouton vert dans la section Démarrage rapide.
 | **License** | Partagé sous licence MIT |
 | **Download** | the button in the Quick Start section |
 
-*Mis à jour 2026-10-10 · Partagé sous licence MIT*
+*Mis à jour 2026-10-11 · Partagé sous licence MIT*
